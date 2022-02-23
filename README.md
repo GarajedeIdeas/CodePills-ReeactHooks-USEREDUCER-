@@ -1,3 +1,10 @@
+# Webinar Youtube
+useReducer en 20 min (y crea una lista de tareas)
+
+## Curso completo
+[AQUÍ](https://www.youtube.com/watch?v=BACpj7GmiEo)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
